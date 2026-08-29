@@ -41,8 +41,8 @@ def camera():
 
 
 def main():
-    #print_image_information()
-    camera()
+    print_image_information()
+    #camera()
 
 
 main()
